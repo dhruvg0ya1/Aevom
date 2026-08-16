@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+settings.json
+email_history.json
+gmail_token.json
+cache/
+
+# personal data - never commit
+user_profile/*
+!user_profile/README.md
+contact_tracker.json
+.env
